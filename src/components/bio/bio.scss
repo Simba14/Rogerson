@@ -11,6 +11,7 @@
   margin-bottom: 32px;
   font-style: italic;
   line-height: 2rem;
+  max-width: 840px;
 
   .HighlightFirst {
     @extend %Highlight;
@@ -35,7 +36,7 @@
     position: relative;
 
     &:before {
-      content: '';
+      content: "";
       position: absolute;
       width: 0;
       height: 2px;
