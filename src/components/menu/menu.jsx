@@ -2,7 +2,7 @@ import React from "react"
 import { Link } from "gatsby"
 import text from "../../text/benText"
 
-import "./Menu.scss"
+import "./menu.scss"
 
 const Menu = () => {
   return (
