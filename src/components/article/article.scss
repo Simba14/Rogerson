@@ -1,0 +1,42 @@
+.Article {
+  .Heading {
+    display: flex;
+    align-items: flex-end;
+    justify-content: center;
+    margin-bottom: 32px;
+
+    .Image {
+      background-position: center;
+      background-size: cover;
+      height: 27vw;
+      max-height: 480px;
+      width: 36vw;
+      max-width: 640px;
+      margin-left: 32px;
+
+      &:hover {
+        filter: invert(1) hue-rotate(180deg);
+      }
+    }
+
+    .Titles {
+      font-family: Univers;
+      min-width: 25%;
+    }
+
+    .Title2 {
+      color: hotpink;
+      margin-left: 16px;
+    }
+
+    .Title3 {
+      margin-left: 32px;
+    }
+  }
+
+  .Content {
+    margin: auto;
+    max-width: 680px;
+    white-space: pre-wrap;
+  }
+}

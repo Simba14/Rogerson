@@ -1,0 +1,14 @@
+.SignatureContainer {
+  font-size: 24px;
+  margin-bottom: 32px;
+
+  &:hover {
+    .Signature {
+      color: hotpink;
+    }
+  }
+
+  .Signature {
+    color: white;
+  }
+}

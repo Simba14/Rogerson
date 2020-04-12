@@ -1,0 +1,29 @@
+.Container {
+  display: flex;
+  flex-wrap: wrap;
+
+  .Image {
+    animation: spinner 2s backwards ease-in-out 6000s;
+    background-position: center;
+    background-size: cover;
+    height: 100px;
+    width: 100px;
+
+    &:hover {
+      animation: spinner 2s infinite backwards ease-in-out;
+    }
+  }
+}
+
+@keyframes spinner {
+  from {
+    -moz-transform: rotateY(0deg);
+    -ms-transform: rotateY(0deg);
+    transform: rotateY(0deg);
+  }
+  to {
+    -moz-transform: rotateY(-360deg);
+    -ms-transform: rotateY(-360deg);
+    transform: rotateY(-360deg);
+  }
+}

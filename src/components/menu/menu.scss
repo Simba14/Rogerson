@@ -1,0 +1,16 @@
+.Menu {
+  display: inline-flex;
+  align-items: center;
+  margin-bottom: 32px;
+
+  a {
+    border-top: 1px solid transparent;
+    font-size: 16px;
+    margin-right: 3em;
+  }
+
+  .active {
+    color: hotpink;
+    border-top-color: hotpink;
+  }
+}

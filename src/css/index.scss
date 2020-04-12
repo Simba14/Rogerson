@@ -1,3 +1,32 @@
+$font: "../fonts/UniversLTW04-47LightCond";
+$fontBold: "../fonts/UniversLTW04-57Condensed";
+
+@font-face {
+  font-family: "Univers";
+  font-display: swap;
+  src: url("#{$font}.eot");
+  src: url("#{$font}.eot?#iefix") format("embedded-opentype"),
+    url("#{$font}.woff2") format("woff2"), url("#{$font}.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Univers";
+  font-display: swap;
+  src: url("#{$fontBold}.eot");
+  src: url("#{$fontBold}.eot?#iefix") format("embedded-opentype"),
+    url("#{$fontBold}.woff2") format("woff2"),
+    url("#{$fontBold}.woff") format("woff");
+  font-weight: bold;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  &:visited {
+    color: black;
+  }
+}
+
 html {
   font-family: sans-serif;
   -ms-text-size-adjust: 100%;
