@@ -9,18 +9,18 @@ const Articles = () => {
     <div className="Articles">
       {articles.map(article => (
         <div key={article.title} className={"Article"}>
-          <Link className="ThumbnailLink" to={`${subpath}/${article.slug}`}>
-            <div
-              className="Thumbnail"
-              style={{ backgroundImage: `url(${article.image})` }}
-              alt={article.title}
-            />
-          </Link>
-          <Link className="Titles" to={`${subpath}/${article.slug}`}>
-            <div>{article.title}</div>
-            <div className="Title2">{article.title}</div>
-            <div className="Title3">{article.title}</div>
-          </Link>
+          {article.slug ? (
+            <Link className="Title" to={`${subpath}/${article.slug}`}>
+              <div>{article.title}</div>
+            </Link>
+          ) : (
+            <a className="Title" target="_blank" href={article.link}>
+              {article.title}
+            </a>
+          )}
+
+          <div className="Format">{article.format}</div>
+          <div className="Date">{article.date}</div>
         </div>
       ))}
     </div>

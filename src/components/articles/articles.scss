@@ -1,51 +1,21 @@
 .Articles {
-  margin-top: 32px;
-
   .Article {
     display: flex;
-    align-items: center;
-    margin-bottom: 16px;
+    flex-direction: column;
+    margin-bottom: 32px;
 
-    &:nth-child(odd) {
-      .Thumbnail {
-        margin-right: 8px;
-      }
-
-      .Titles {
-        text-align: center;
-      }
-    }
-
-    &:nth-child(even) {
-      flex-direction: row-reverse;
-      justify-content: flex-end;
-
-      .Thumbnail {
-        margin-left: 8px;
-      }
-    }
-
-    .ThumbnailLink {
-      width: 33%;
-    }
-
-    .Thumbnail {
-      background-position: center;
-      background-size: cover;
-      height: 250px;
-    }
-
-    .Titles {
+    .Title {
+      color: blue;
       font-family: Univers;
-      min-width: 25%;
-    }
 
-    .Title2 {
-      margin-left: 16px;
+      &:hover {
+        color: hotpink;
+      }
     }
+  }
 
-    .Title3 {
-      margin-left: 32px;
-    }
+  .Format,
+  .Date {
+    font-style: italic;
   }
 }

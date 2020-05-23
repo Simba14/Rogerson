@@ -1,73 +1,9 @@
-// To use external link provide "link", to link to internal page use "slug: /angel-olsen"
-
 module.exports = {
   subpath: "selected-drivel",
   articles: [
     {
-      title: " DJ Plead's Functional & Percussive Kitchen Storage Units ",
-      format: "Interview for De School",
-      date: "Amsterdam, March 2020",
-      link:
-        "https://www.deschoolamsterdam.nl/nl/blog/2020/03/dj-plead-s-functional-percussive-kitchen-storage-units/1157/",
-    },
-    {
-      title: "Patten",
-      format: "Interview for Truants",
-      date: "London, January 2020",
-      link: "http://truantsblog.com/2020/interview-patten/",
-    },
-    {
-      title: "Sub Liminal 2: CTM Future Prequel",
-      format: "Show review for Schmutz",
-      date: "Berlin, November 2019",
-      link:
-        "https://www.schmutzberlin.com/sub-liminal-2-a-ctm-2020-future-prequel/",
-      image:
-        "https://www.schmutzberlin.com/wp-content/uploads/2019/12/75241117_10156541784616615_5615113446765887488_o-1080x675.jpg",
-      content: `Liminal phenomena and liminoid states are transitional phases in which a familiar order sees its values and symbols destabilised; norms are suspended or turned on their heads. They thrust us into the grey zone between the two sides of a supposedly clear demarcation. We find ourselves in ambiguous spaces, somewhere between a past that is no longer valid and an ever-becoming future. (CTM Festival, 2020).
-
-Next January, CTM’s 2020 edition will explore Liminality, the phase between the old and the new; the space between boundaries: opening up an exploration of what lies between the supposedly clear definitions that separate and segment our present context. A transitional period takes place when norms are uplifted, and in that transition between what was, and what will become, we are opened up to new possibilities. With this newfound movement and freedom, conventions and norms become challenged in new ways.
-
-In many ways, the current nature of Berlin’s night-life could be said to fit into this notion of liminality. While, for decades, a narrow sound and aesthetic has been both reinforced and perpetuated by club line-ups often lacking diversity in both the types of sound and the artists showcased, there has been a reinvention of electronic music events across the city. Organisers like Creamcake, 3HD, Atonal, Janus, Yegorka and the club space of CTM’s Pre-party series Trauma Bar are fearlessly pushing forward parties with a focus on diversity in artist and experience. The aging Berlin hegemony was growing tired, and seemingly certain audiences along with it too. The reality is that in Berlin now, on a Thursday night you can consistently attend a night with challenging, expansive, cross-genre experimental artists; and see a crowd full of curious people eager to accept that challenge. We are in a time now where the regimental norms of the scene are being upended: it is unarguably within a liminal phase.
-
-The second of CTM’s pre-party series ‘Sub Liminal #2: A CTM 2020 Future Prequel’ offered an early peek into the festival to come, and an exemplary case of this alternative form of party: selecting a line-up of performers that defy definition, flicking and blurring between genres with grace. The night took place at the effervescent Trauma Bar und Kino, which has become a pioneer for nights such as these. Two live-acts laid down their work: Kablam and South African Duo Faka. Self-described by CTM as an artist who “skillfully weaves new narratives out of the sounds of yesterday, today, and tomorrow”; Kablam is a poignant example of liminality. An artist who both draws on, and pushes forward, the sounds of the past to propel the dance experience forward. Her sets routinely call back to 90s and 00s classics whilst entertaining the forward-thinking, polished sounds of today. Faka remained the party’s highlight; in a rhythmic and unavoidably danceable concoction of singing and poetry. The live acts fell amongst two emphatic DJ sets from DJ Haram and Pininga: the former melding Middle Eastern music with bold percussion, and the latter drawing on their Brazilian background amongst a backdrop of bass-heavy, far-reaching styles. Each artist represented the move away from tight-knit definitions, unafraid of provocative explorations of different genres and styles. As a consequence the event felt both fluid and unpredictable, bringing a sharpness and new direction to each performer as they took the stage.
-
-If the thought of a set moving beyond the safe confines of 120 BPM, 4-4 beats for hours on end makes you sigh, perhaps it isn’t for you. But for those growing a little jaded with the reproduction and reinforcement of certain names and styles and sounds on line-ups on the big stages in Berlin, showing up and supporting an event like these CTM-previews may offer you a fresh experience. In its nature, with its emphasis on diversity and deviation from the norms, chances are that you won’t enjoy everything; perhaps even, find a decent amount of it unenjoyable. Even so, the likelihood is that some music will land hard and there is always something refreshing to be said about a stage full of diverse performers and bodies; in that diversity, a new and curious audience is brought together. For each performer, respect and attention and patience were laid down, and more or less all of the acts brought about a response from the crowd. So when you do have your moment: chances are you won’t be alone in it.
-
-As a poignant example of the phase between the old and the new, the CTM Sub Liminal pre-parties embody the transitory concept of liminality in a variety of ways. It serves as a transition towards the festival itself. A transition towards Berlin’s increasingly diversifying nightlife culture. The curation of the CTM events illuminate these transitions and forcefully bring them into being; the music itself transitioning between ages and genres and sounds. The process of upending norms and recreating our contexts is what the 2020 edition of the festival will explore, here was an early insight into what that might offer. This punchy Thursday-night event was a kindly reminder that a long held-up overhaul of nightlife culture is undoubtedly taking shape.`,
-    },
-    {
-      title: "Angel Olsen: All Mirrors",
-      format: "Show review for Schmutz",
-      date: "Berlin, October 2019",
-      link:
-        "https://www.schmutzberlin.com/angel-olsen-all-mirrors-album-review/",
-      image:
-        "https://www.schmutzberlin.com/wp-content/uploads/2019/10/angelolsen_allmirrors.jpg",
-      content: `Angel Olsen is a dreamer. A few years ago, when she uncovered a dream-house in Asheville, it became her obsession. Unable to afford the house at the time, she couldn’t make it her reality, but a few years later she bought a house opposite in the same street. Dream or reality, the image across the road still plays an important symbolic role for her. She brought this story to light in an interview with The FADER this year. “Now, every day when I leave my house, I look at my dream house,” she says. “And that’s all I needed. I needed it to be something that existed in my mind as a dream house, and it’s so symbolic for me. As you get older, you romanticize narratives about the people in your mind, about the people you love, why you’re close to certain people, like, It’s so sweet we both loved poetry.”
-
-Olsen’s All Mirrors is an exploration of the dreams and illusions of her own mind, and the strain and joy these place on her sense of self. In the aftermath of a break-up, she faces up to her own visions of romantic love and forever-love; whilst also bringing to light the illusion of the artist, of language, of her hopes and dreams. Far from the stripped-back, smokey, singer-songwriter folk of her early albums, her use of a 12-piece string-section fills the album with a new voice, allowing her distinctive vocal tones at times to take a back-seat. Though a continuation of the lonely heartache of her former albums remains, her self-awareness brings with it a lightness and optimism that allows us to be optimistic even in her most painful moments.
-
-While Olsen’s dream-house encourages her to fantasize about the future, many tracks of All Mirrors find her nostalgically looking backwards at former romances. She captures these distant realities through a variety of illusory images. As love in a movie in “Chance”: “I’m walking through the scenes / I’m saying all the lines”. Or with a vision of heaven in “Spring”: “Give me a heaven / just for a while / make me eternal / there in your smile”. She both indulges in and satirises the other-wordly narratives she finds herself continually falling into. Olsen is aware of her own susceptibility to fall into these traps, but they nonetheless expand the worlds within which she can bring her memories and music to life.
-
-But her tendency to construct and buy into these illusions is not without complication. She recognises her own vulnerability in buying into these fantasies, and how she can lose part of herself in the process. Title track “All mirrors” captures the essence of this. Confronting her reflection in the mirror, she reminisces of a youthful beauty which has faded. “Standing, facin’, all mirrors are erasin’ / Losin’ beauty, at least at times it knew me”. As she compared this to her idyllic relationships which once were, she struggles to confront her new reality. The elision on the shortened words: facin’; erasin’; losin’ –  further reinforce this. Even her words and language are degraded – something lost, or missing, that once was.
-
-This sense of erosion is reinforced in Spring, where the duality of the artist is brought into question. “How time has revealed how little we know us / I’ve been too busy, I should’ve noticed”. It’s unclear if the ‘we’ she refers to here is her and a former partner; or simply the two co-existing versions of herself: Olsen as artist, Olsen as individual. Has Olsen committed so strongly into her life and narrative as an artist that she has left her former self behind? While the album is inherently inward-focused, Olsen prevents the album from slipping into indulgence. Her awareness allows her to bring light-hearted moments of self-mockery: “maybe you just want / Just to feel something again / You just wanted to forget / That your heart was full of shit”.
-
-With a voice as distinct and powerful as her own, Olsen tactfully avoids becoming over-reliant on it; which brings with it a certain humility. Instead she makes use of thick periods of instrumentation, like the meandering guitar solo on “Spring”, or the various climaxes of the 12-piece string orchestra, such as those on “Lark” and “Tonight”.
-
-Her structural skill enables her to keep the album dynamic whilst empowering some of her key themes. The way in which her voice is slowly overpowered by the string orchestra on “Lark” is an excellent example of her own humility; her voice becomes secondary to the powerful strings which build slowly and eventually envelope her – muting her cries in the process. A couple of tactful tempo changes, those in “Too easy” and “Summer” allow her to sweep us away from feelings of darkness towards moments of optimism – breaking through periods of turmoil to provide us with respite. “And then one moment I was blown away / And there was nothing left that I could say.“
-
-It is a testament to Olsen’s composition that she can make use of the strings in such a variety of ways. From the epic climaxes of “Lark” and “Summer” to the mellow romantic strings of “Endgame”, evoking tones of 60s love-songs. Synths and kicks in “Too Easy” bring a cinematic, dream-like conception of former romance to life in a sound calling back to the synthy-pop of My Woman. Her commitment to variety within the confines of her tonal-range push her away from center stage, allowing her to drift in and out of focus – much like the evasive self she finds so difficult to grasp.
-
-Olsen poignantly captures the extent to which romantic journeys are so often a journey of the self. Constructed within illusory frameworks that even awareness cannot help us from falling into. Within these frameworks we find our reflections. Each mirror a phantom of a certain reality that brings our own vulnerability into question. Olsen extends the range of her compositional capacity here, incorporating new instruments to expand her sound and strengthen her message. All mirrors is a confident depiction of the troubled understanding of our self in the midst of heartache: if it’s all mirrors, where does the illusion end and truth begin? `,
-    },
-    {
       title: "The Colours of Kate Miller",
-      format: "Interview for De School",
-      date: "Amsterdam, August 2019",
-      link:
-        " https://www.deschoolamsterdam.nl/en/blog/2019/08/the-colours-of-kate-miller/998",
+      slug: "the-colours-of-kate-miller",
       image:
         "https://www.deschoolamsterdam.nl/static/uploads/images/cache/2019/08/000009_1204_644x428_90_1_0_c.JPG",
       content: `Kate Miller will continue to pour curated naughtiness over summer dance-floors at De School this Friday. The far-reaching radio and club selector has been described as a ‘musical chameleon’; bringing her sets to life with colours more vibrant than Ari Aster’s Midsommar. How can we best capture and communicate musical experience? And what drives her to continue uncovering music after all these years? She opened up and leant us her thoughts in advance of her upcoming set this evening.
@@ -112,11 +48,31 @@ I’ve been playing for 10 years, but yes quite a while now! Honestly, sometimes
 `,
     },
     {
+      title: "Angel Olsen: All Mirrors",
+      slug: "angel-olsen-all-mirrors",
+      image:
+        "https://www.schmutzberlin.com/wp-content/uploads/2019/10/angelolsen_allmirrors.jpg",
+      content: `Angel Olsen is a dreamer. A few years ago, when she uncovered a dream-house in Asheville, it became her obsession. Unable to afford the house at the time, she couldn’t make it her reality, but a few years later she bought a house opposite in the same street. Dream or reality, the image across the road still plays an important symbolic role for her. She brought this story to light in an interview with The FADER this year. “Now, every day when I leave my house, I look at my dream house,” she says. “And that’s all I needed. I needed it to be something that existed in my mind as a dream house, and it’s so symbolic for me. As you get older, you romanticize narratives about the people in your mind, about the people you love, why you’re close to certain people, like, It’s so sweet we both loved poetry.”
+
+Olsen’s All Mirrors is an exploration of the dreams and illusions of her own mind, and the strain and joy these place on her sense of self. In the aftermath of a break-up, she faces up to her own visions of romantic love and forever-love; whilst also bringing to light the illusion of the artist, of language, of her hopes and dreams. Far from the stripped-back, smokey, singer-songwriter folk of her early albums, her use of a 12-piece string-section fills the album with a new voice, allowing her distinctive vocal tones at times to take a back-seat. Though a continuation of the lonely heartache of her former albums remains, her self-awareness brings with it a lightness and optimism that allows us to be optimistic even in her most painful moments.
+
+While Olsen’s dream-house encourages her to fantasize about the future, many tracks of All Mirrors find her nostalgically looking backwards at former romances. She captures these distant realities through a variety of illusory images. As love in a movie in “Chance”: “I’m walking through the scenes / I’m saying all the lines”. Or with a vision of heaven in “Spring”: “Give me a heaven / just for a while / make me eternal / there in your smile”. She both indulges in and satirises the other-wordly narratives she finds herself continually falling into. Olsen is aware of her own susceptibility to fall into these traps, but they nonetheless expand the worlds within which she can bring her memories and music to life.
+
+But her tendency to construct and buy into these illusions is not without complication. She recognises her own vulnerability in buying into these fantasies, and how she can lose part of herself in the process. Title track “All mirrors” captures the essence of this. Confronting her reflection in the mirror, she reminisces of a youthful beauty which has faded. “Standing, facin’, all mirrors are erasin’ / Losin’ beauty, at least at times it knew me”. As she compared this to her idyllic relationships which once were, she struggles to confront her new reality. The elision on the shortened words: facin’; erasin’; losin’ –  further reinforce this. Even her words and language are degraded – something lost, or missing, that once was.
+
+This sense of erosion is reinforced in Spring, where the duality of the artist is brought into question. “How time has revealed how little we know us / I’ve been too busy, I should’ve noticed”. It’s unclear if the ‘we’ she refers to here is her and a former partner; or simply the two co-existing versions of herself: Olsen as artist, Olsen as individual. Has Olsen committed so strongly into her life and narrative as an artist that she has left her former self behind? While the album is inherently inward-focused, Olsen prevents the album from slipping into indulgence. Her awareness allows her to bring light-hearted moments of self-mockery: “maybe you just want / Just to feel something again / You just wanted to forget / That your heart was full of shit”.
+
+With a voice as distinct and powerful as her own, Olsen tactfully avoids becoming over-reliant on it; which brings with it a certain humility. Instead she makes use of thick periods of instrumentation, like the meandering guitar solo on “Spring”, or the various climaxes of the 12-piece string orchestra, such as those on “Lark” and “Tonight”.
+
+Her structural skill enables her to keep the album dynamic whilst empowering some of her key themes. The way in which her voice is slowly overpowered by the string orchestra on “Lark” is an excellent example of her own humility; her voice becomes secondary to the powerful strings which build slowly and eventually envelope her – muting her cries in the process. A couple of tactful tempo changes, those in “Too easy” and “Summer” allow her to sweep us away from feelings of darkness towards moments of optimism – breaking through periods of turmoil to provide us with respite. “And then one moment I was blown away / And there was nothing left that I could say.“
+
+It is a testament to Olsen’s composition that she can make use of the strings in such a variety of ways. From the epic climaxes of “Lark” and “Summer” to the mellow romantic strings of “Endgame”, evoking tones of 60s love-songs. Synths and kicks in “Too Easy” bring a cinematic, dream-like conception of former romance to life in a sound calling back to the synthy-pop of My Woman. Her commitment to variety within the confines of her tonal-range push her away from center stage, allowing her to drift in and out of focus – much like the evasive self she finds so difficult to grasp.
+
+Olsen poignantly captures the extent to which romantic journeys are so often a journey of the self. Constructed within illusory frameworks that even awareness cannot help us from falling into. Within these frameworks we find our reflections. Each mirror a phantom of a certain reality that brings our own vulnerability into question. Olsen extends the range of her compositional capacity here, incorporating new instruments to expand her sound and strengthen her message. All mirrors is a confident depiction of the troubled understanding of our self in the midst of heartache: if it’s all mirrors, where does the illusion end and truth begin? `,
+    },
+    {
       title: "Freshmen: Oceanic",
-      format: "Interview for De School",
-      date: "Amsterdam, October 2017",
-      link:
-        "https://www.deschoolamsterdam.nl/en/blog/2017/10/freshmen-in-conversation-with-oceanic/542/",
+      slug: "freshmen-oceanic",
       image:
         "https://www.deschoolamsterdam.nl/static/uploads/images/cache/2017/10/Schermafbeelding_2017-10-18_om_15.03_.18__794_644x428_90_1_0_c.png",
       content: `Q: I kind of just want to do that thing that films do, you know where the scene begins mid conversation and you’re right into the action?
@@ -177,6 +133,23 @@ I’ve been playing for 10 years, but yes quite a while now! Honestly, sometimes
 
 
       Oceanic's live performance will be in De Aula on Saturday night, along with Iona Fortune and JD Twitch. His closing set will be in Het Muzieklokaal, Sunday night from 05:00 until close.`,
+    },
+    {
+      title: "CTM'S Sub-Liminal: A future Prequel",
+      slug: "ctms-sub-liminal",
+      image:
+        "https://www.schmutzberlin.com/wp-content/uploads/2019/12/75241117_10156541784616615_5615113446765887488_o-1080x675.jpg",
+      content: `Liminal phenomena and liminoid states are transitional phases in which a familiar order sees its values and symbols destabilised; norms are suspended or turned on their heads. They thrust us into the grey zone between the two sides of a supposedly clear demarcation. We find ourselves in ambiguous spaces, somewhere between a past that is no longer valid and an ever-becoming future. (CTM Festival, 2020).
+
+Next January, CTM’s 2020 edition will explore Liminality, the phase between the old and the new; the space between boundaries: opening up an exploration of what lies between the supposedly clear definitions that separate and segment our present context. A transitional period takes place when norms are uplifted, and in that transition between what was, and what will become, we are opened up to new possibilities. With this newfound movement and freedom, conventions and norms become challenged in new ways.
+
+In many ways, the current nature of Berlin’s night-life could be said to fit into this notion of liminality. While, for decades, a narrow sound and aesthetic has been both reinforced and perpetuated by club line-ups often lacking diversity in both the types of sound and the artists showcased, there has been a reinvention of electronic music events across the city. Organisers like Creamcake, 3HD, Atonal, Janus, Yegorka and the club space of CTM’s Pre-party series Trauma Bar are fearlessly pushing forward parties with a focus on diversity in artist and experience. The aging Berlin hegemony was growing tired, and seemingly certain audiences along with it too. The reality is that in Berlin now, on a Thursday night you can consistently attend a night with challenging, expansive, cross-genre experimental artists; and see a crowd full of curious people eager to accept that challenge. We are in a time now where the regimental norms of the scene are being upended: it is unarguably within a liminal phase.
+
+The second of CTM’s pre-party series ‘Sub Liminal #2: A CTM 2020 Future Prequel’ offered an early peek into the festival to come, and an exemplary case of this alternative form of party: selecting a line-up of performers that defy definition, flicking and blurring between genres with grace. The night took place at the effervescent Trauma Bar und Kino, which has become a pioneer for nights such as these. Two live-acts laid down their work: Kablam and South African Duo Faka. Self-described by CTM as an artist who “skillfully weaves new narratives out of the sounds of yesterday, today, and tomorrow”; Kablam is a poignant example of liminality. An artist who both draws on, and pushes forward, the sounds of the past to propel the dance experience forward. Her sets routinely call back to 90s and 00s classics whilst entertaining the forward-thinking, polished sounds of today. Faka remained the party’s highlight; in a rhythmic and unavoidably danceable concoction of singing and poetry. The live acts fell amongst two emphatic DJ sets from DJ Haram and Pininga: the former melding Middle Eastern music with bold percussion, and the latter drawing on their Brazilian background amongst a backdrop of bass-heavy, far-reaching styles. Each artist represented the move away from tight-knit definitions, unafraid of provocative explorations of different genres and styles. As a consequence the event felt both fluid and unpredictable, bringing a sharpness and new direction to each performer as they took the stage.
+
+If the thought of a set moving beyond the safe confines of 120 BPM, 4-4 beats for hours on end makes you sigh, perhaps it isn’t for you. But for those growing a little jaded with the reproduction and reinforcement of certain names and styles and sounds on line-ups on the big stages in Berlin, showing up and supporting an event like these CTM-previews may offer you a fresh experience. In its nature, with its emphasis on diversity and deviation from the norms, chances are that you won’t enjoy everything; perhaps even, find a decent amount of it unenjoyable. Even so, the likelihood is that some music will land hard and there is always something refreshing to be said about a stage full of diverse performers and bodies; in that diversity, a new and curious audience is brought together. For each performer, respect and attention and patience were laid down, and more or less all of the acts brought about a response from the crowd. So when you do have your moment: chances are you won’t be alone in it.
+
+As a poignant example of the phase between the old and the new, the CTM Sub Liminal pre-parties embody the transitory concept of liminality in a variety of ways. It serves as a transition towards the festival itself. A transition towards Berlin’s increasingly diversifying nightlife culture. The curation of the CTM events illuminate these transitions and forcefully bring them into being; the music itself transitioning between ages and genres and sounds. The process of upending norms and recreating our contexts is what the 2020 edition of the festival will explore, here was an early insight into what that might offer. This punchy Thursday-night event was a kindly reminder that a long held-up overhaul of nightlife culture is undoubtedly taking shape.`,
     },
   ],
 }

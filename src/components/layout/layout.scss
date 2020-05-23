@@ -1,4 +1,28 @@
 .Wrapper {
   font-family: Univers;
-  padding: 24px 32px 64px;
+  padding: 32px 32px 64px;
+
+  .StickyEmail {
+    position: fixed;
+    bottom: 0px;
+    left: 0px;
+    background-color: white;
+    width: 100vw;
+    color: hotpink;
+    padding: 20px 32px;
+    border-top: 1px solid hotpink;
+    font-size: 20px;
+    cursor: pointer;
+
+    .EmailLink {
+      display: flex;
+      align-items: center;
+    }
+
+    .MailIcon {
+      height: 24px;
+      margin-bottom: 0px;
+      margin-right: 16px;
+    }
+  }
 }

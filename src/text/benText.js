@@ -6,7 +6,7 @@ export default {
     { link: "/play-it-to-feet", text: "Contact" },
   ],
   bio: {
-    __html: `Ben Rogerson is a writer based between <span class='HighlightFirst'>Amsterdam and Berlin</span>. He mainly avoids writing by attending the cinema by day, and music by night. When able to overcome his attention deficit, his texts are mainly concerned with <span class='Underline'>experimental music</span>, <span class='HighlightSecond'>the dance music community</span>, independent cinema and sports. Recent pieces have appeared on Schmutz, Truants Blog and the Amsterdam based cultural institutions Trouw and De School.`,
+    __html: `<p>Benjamin Rogerson is a culture writer based between <span class='HighlightFirst'>Amsterdam and Berlin</span>. He mainly avoids writing by attending the cinema by day, and music by night. When able to overcome his attention deficit, he has written on an array of topics he has absolute no right to: <span class='Underline'>music & club culture</span>, <span class='HighlightSecond'>film & visual arts</span>, <span class='Underline'>economics & tech</span> and <span class='HighlightThird'>sports</span>. Recent pieces have appeared on Schmutz, Truants Blog and the Amsterdam based cultural institutions Trouw and De School.</p>`,
   },
   contactDetails: {
     email: "benrogerson10@gmail.com",

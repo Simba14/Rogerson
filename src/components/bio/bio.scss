@@ -8,8 +8,8 @@
 }
 
 .Bio {
+  font-size: 24px;
   margin-bottom: 32px;
-  font-style: italic;
   line-height: 2rem;
   max-width: 840px;
 
@@ -23,14 +23,6 @@
     animation: 2s highlighter;
     animation-delay: 2s;
   }
-
-  // .Underline {
-  //   border-bottom: 1px solid white;
-  //   transition: border-color 0.5s;
-  //   &:hover {
-  //     border-color: black;
-  //   }
-  // }
 
   .Underline {
     position: relative;
